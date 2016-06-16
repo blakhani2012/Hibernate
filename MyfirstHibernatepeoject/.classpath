@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hibernate"/>
+	<classpathentry kind="lib" path="I:/J2EE Softwares/Softwares/JDBC/DB Driver/mysql-connector-java-5.1.7/mysql-connector-java-5.1.7/mysql-connector-java-5.1.7-bin.jar"/>
+	<classpathentry kind="lib" path="I:/J2EE Softwares/Softwares/Frameworks/Hibernate/hibernate-distribution-3.6.10.Final-dist/hibernate-distribution-3.6.10.Final/lib/bytecode/javassist/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="I:/J2EE Softwares/Softwares/Frameworks/Hibernate/hibernate-distribution-3.6.10.Final-dist/hibernate-distribution-3.6.10.Final/lib/bytecode/cglib/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="I:/J2EE Softwares/Softwares/Frameworks/Hibernate/hibernate-distribution-3.6.10.Final-dist/hibernate-distribution-3.6.10.Final/lib/jpa/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="I:/J2EE Softwares/Softwares/Frameworks/Hibernate/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="I:/J2EE Softwares/Softwares/Frameworks/Hibernate/slf4j-simple-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
